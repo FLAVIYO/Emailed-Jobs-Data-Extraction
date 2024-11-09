@@ -25,8 +25,8 @@ This Python script connects to your email server, searches both the **Inbox** an
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/email-job-filter.git
-   cd email-job-filter
+   git clone https://github.com/FLAVIYO/Emailed-Jobs-Data-Extraction.git
+   cd Emailed-Jobs-Data-Extraction
    ```
 2. Install the required libraries:
    ```bash
